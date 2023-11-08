@@ -44,7 +44,7 @@ The First Chapter,22/204,Stitch - New Dog,1,Amber,Character,Common,2,2,1,New Dog
 The First Chapter,23/204,Stitch - Rock Star,6,Amber,Character,Super Rare,3,5,3,Rock Star,Lilo and Stitch,$9.60,$24.77
 The First Chapter,24/204,Timon - Grub Rustler,1,Amber,Character,Common,1,2,1,Grub Rustler,Lion King,$0.15,$0.50
 The First Chapter,34/204,Ursula's Shell Necklace,3,Amber,Item,Rare,,,,,Little Mermaid,$0.67,$3.41
-The First Chapter,31/204,You Have Forgotten Me,4,Amber,Action,Uncommon,,,,,Lion King,$0.69,$4.35
+The First Chapter,31/204,You Have Forgotten Me,4,Amber,Action,Uncommon,,,,,Lion King,$0.69,$4.39
 The First Chapter,35/204,Anna - Heir to Arendelle,4,Amethyst,Character,Uncommon,2,4,2,Heir to Arendelle,Frozen,$0.28,$1.36
 The First Chapter,36/204,Archimedes - Highly Educated Owl,1,Amethyst,Character,Common,2,2,1,Highly Educated Owl,Sword in the Stone,$0.17,$1.07
 The First Chapter,62/204,Befuddle,1,Amethyst,Action,Uncommon,,,,,Sword in the Stone,$0.60,$12.20
@@ -90,10 +90,10 @@ The First Chapter,74/204,Flynn Rider - Charming Rogue,2,Emerald,Character,Uncomm
 The First Chapter,75/204,Genie - On the Job,6,Emerald,Character,Super Rare,3,4,2,On the Job,Aladdin,$3.21,$8.74
 The First Chapter,76/204,Genie - Powers Unleashed,8,Emerald,Character,Rare,3,5,3,Powers Unleashed,Aladdin,$0.99,$3.18
 The First Chapter,77/204,Genie - The Ever Impressive,2,Emerald,Character,Common,2,3,1,The Ever Impressive,Aladdin,$0.17,$0.53
-The First Chapter,78/204,Hans - Scheming Prince,4,Emerald,Character,Rare,3,3,3,Scheming Prince,Frozen,$5.40,$11.38
+The First Chapter,78/204,Hans - Scheming Prince,4,Emerald,Character,Rare,3,3,3,Scheming Prince,Frozen,$5.29,$11.38
 The First Chapter,79/204,Horace - No-Good Scoundrel,3,Emerald,Character,Common,4,3,1,No-Good Scoundrel,101 Dalmatians,$0.08,$0.38
 The First Chapter,80/204,Iago - Loud-Mouthed Parrot,3,Emerald,Character,Rare,1,4,1,Loud-Mouthed Parrot,Aladdin,$0.26,$1.56
-The First Chapter,81/204,Jasper - Common Crook,3,Emerald,Character,Uncommon,2,4,1,Common Crook,101 Dalmatians,$0.24,$1.81
+The First Chapter,81/204,Jasper - Common Crook,3,Emerald,Character,Uncommon,2,4,1,Common Crook,101 Dalmatians,$0.24,$1.84
 The First Chapter,82/204,John Silver - Alien Pirate,6,Emerald,Character,Legendary,5,5,2,Alien Pirate,Treasure Planet,$23.70,$44.76
 The First Chapter,83/204,Jumba Jookiba - Renegade Scientist,5,Emerald,Character,Uncommon,4,5,2,Renegade Scientist,Lilo and Stitch,$0.17,$0.75
 The First Chapter,84/204,Kuzco - Temperamental Emperor,5,Emerald,Character,Rare,2,4,3,Temperamental Emperor,Emperor's New Groove,$12.50,$22.10
@@ -111,12 +111,12 @@ The First Chapter,102/204,Stolen Scimitar,2,Emerald,Item,Common,,,,,Aladdin,$0.0
 The First Chapter,98/204,Sudden Chill,2,Emerald,Action,Common,,,,,101 Dalmatians,$0.16,$0.71
 The First Chapter,92/204,Tamatoa - Drab Little Crab,2,Emerald,Character,Uncommon,1,4,1,Drab Little Crab,Moana,$0.19,$0.72
 The First Chapter,99/204,The Beast is Mine!,3,Emerald,Action,Uncommon,,,,,Beauty and the Beast,$0.16,$1.06
-The First Chapter,93/204,Tinker Bell - Most Helpful,4,Emerald,Character,Common,2,3,2,Most Helpful,Peter Pan,$0.60,$1.65
+The First Chapter,93/204,Tinker Bell - Most Helpful,4,Emerald,Character,Common,2,3,2,Most Helpful,Peter Pan,$0.60,$1.67
 The First Chapter,100/204,Vicious Betrayal,1,Emerald,Action,Common,,,,,Lion King,$0.05,$0.38
 The First Chapter,103/204,Abu - Mischievous Monkey,3,Ruby,Character,Common,3,2,2,Mischievous Monkey,Aladdin,$0.14,$0.39
 The First Chapter,104/204,Aladdin - Heroic Outlaw,7,Ruby,Character,Super Rare,5,5,2,Heroic Outlaw,Aladdin,$1.84,$2.72
 The First Chapter,105/204,Aladdin - Street Rat,3,Ruby,Character,Common,2,2,1,Street Rat,Aladdin,$0.07,$1.59
-The First Chapter,128/204,Be Prepared,7,Ruby,Action,Rare,,,,,Lion King,$6.06,$13.72
+The First Chapter,128/204,Be Prepared,7,Ruby,Action,Rare,,,,,Lion King,$6.08,$13.72
 The First Chapter,106/204,Captain - Colonel's Lieutenant,5,Ruby,Character,Uncommon,6,5,1,Colonel's Lieutenant,101 Dalmatians,$0.07,$0.68
 The First Chapter,107/204,Captain Hook - Ruthless Pirate,7,Ruby,Character,Rare,5,5,2,Ruthless Pirate,Peter Pan,$0.49,$1.59
 The First Chapter,129/204,Cut to the Chase,2,Ruby,Action,Uncommon,,,,,Standard Characters,$0.18,$0.66
@@ -124,7 +124,7 @@ The First Chapter,108/204,Donald Duck - Boisterous Fowl,2,Ruby,Character,Uncommo
 The First Chapter,130/204,Dragon Fire,5,Ruby,Action,Uncommon,,,,,Sleeping Beauty,$0.21,$4.70
 The First Chapter,109/204,Elsa - Ice Surfer,4,Ruby,Character,Common,3,4,1,Ice Surfer,Frozen,$0.10,$0.51
 The First Chapter,131/204,Fan the Flames,1,Ruby,Action,Uncommon,,,,,Beauty and the Beast,$0.20,$0.62
-The First Chapter,110/204,Gaston - Arrogant Hunter,2,Ruby,Character,Common,4,2,,Arrogant Hunter,Beauty and the Beast,$0.23,$1.20
+The First Chapter,110/204,Gaston - Arrogant Hunter,2,Ruby,Character,Common,4,2,,Arrogant Hunter,Beauty and the Beast,$0.23,$1.24
 The First Chapter,111/204,Goofy - Daredevil,5,Ruby,Character,Common,3,4,2,Daredevil,Standard Characters,$0.21,$1.35
 The First Chapter,132/204,He's Got A Sword!,1,Ruby,Action,Common,,,,,Aladdin,$0.06,$0.42
 The First Chapter,112/204,Lefou - Instigator,2,Ruby,Character,Rare,2,2,1,Instigator,Beauty and the Beast,$0.56,$2.89
@@ -137,7 +137,7 @@ The First Chapter,118/204,Mulan - Imperial Soldier,5,Ruby,Character,Super Rare,4
 The First Chapter,119/204,Peter Pan - Fearless Fighter,3,Ruby,Character,Common,3,2,1,Fearless Fighter,Peter Pan,$0.11,$0.47
 The First Chapter,134/204,Poisoned Apple,3,Ruby,Item,Rare,,,,,Snow White,$0.57,$2.86
 The First Chapter,120/204,Pongo - Ol' Rascal,4,Ruby,Character,Common,2,3,2,Ol' Rascal,101 Dalmatians,$0.07,$0.75
-The First Chapter,121/204,Rapunzel - Letting Down Her Hair,6,Ruby,Character,Uncommon,5,4,2,Letting Down Her Hair,Tangled,$0.11,$0.96
+The First Chapter,121/204,Rapunzel - Letting Down Her Hair,6,Ruby,Character,Uncommon,5,4,2,Letting Down Her Hair,Tangled,$0.11,$0.99
 The First Chapter,122/204,Scar - Fiery Usurper,4,Ruby,Character,Common,5,3,1,Fiery Usurper,Lion King,$0.05,$0.42
 The First Chapter,123/204,Scar - Shameless Firebrand,8,Ruby,Character,Rare,6,6,1,Shameless Firebrand,Lion King,$0.42,$1.93
 The First Chapter,124/204,Sergeant Tibbs - Courageous Cat,1,Ruby,Character,Common,2,2,1,Courageous Cat,101 Dalmatians,$0.07,$0.79
@@ -167,7 +167,7 @@ The First Chapter,148/204,Jasmine - Disguised,3,Sapphire,Character,Common,3,3,2,
 The First Chapter,149/204,Jasmine - Queen of Agrabah,5,Sapphire,Character,Rare,2,5,2,Queen of Agrabah,Aladdin,$2.09,$7.63
 The First Chapter,163/204,Let It Go,5,Sapphire,Action,Rare,,,,,Frozen,$5.68,$15.04
 The First Chapter,169/204,Magic Golden Flower,1,Sapphire,Item,Common,,,,,Tangled,$0.09,$0.59
-The First Chapter,150/204,Maleficent - Sinister Visitor,4,Sapphire,Character,Common,3,4,2,Sinister Visitor,Sleeping Beauty,$0.08,$0.40
+The First Chapter,150/204,Maleficent - Sinister Visitor,4,Sapphire,Character,Common,3,4,2,Sinister Visitor,Sleeping Beauty,$0.08,$0.41
 The First Chapter,151/204,Maleficent - Uninvited,5,Sapphire,Character,Rare,3,6,3,Uninvited,Sleeping Beauty,$1.08,$5.25
 The First Chapter,152/204,Maurice - World-Famous Inventor,6,Sapphire,Character,Rare,2,7,2,World-Famous Inventor,Beauty and the Beast,$1.53,$4.14
 The First Chapter,153/204,Merlin - Self-Appointed Mentor,4,Sapphire,Character,Common,3,4,1,Self-Appointed Mentor,Sword in the Stone,$0.10,$0.88
@@ -196,8 +196,8 @@ The First Chapter,202/204,Frying Pan,2,Steel,Item,Uncommon,,,,,Tangled,$0.09,$0.
 The First Chapter,178/204,Gantu - Galactic Federation Captain,8,Steel,Character,Legendary,6,6,2,Galactic Federation Captain,Lilo and Stitch,$3.31,$25.72
 The First Chapter,179/204,Goons - Maleficent's Underlings,1,Steel,Character,Common,2,2,1,Maleficent's Underlings,Sleeping Beauty,$0.06,$0.49
 The First Chapter,198/204,Grab Your Sword,5,Steel,Action,Rare,,,,,Beauty and the Beast,$2.75,$13.64
-The First Chapter,180/204,Hans - Thirteenth in Line,4,Steel,Character,Super Rare,3,3,2,Thirteenth in Line,Frozen,$3.07,$7.36
-The First Chapter,181/204,Hercules - True Hero,3,Steel,Character,Common,3,3,1,True Hero,Hercules,$0.12,$0.70
+The First Chapter,180/204,Hans - Thirteenth in Line,4,Steel,Character,Super Rare,3,3,2,Thirteenth in Line,Frozen,$3.08,$7.36
+The First Chapter,181/204,Hercules - True Hero,3,Steel,Character,Common,3,3,1,True Hero,Hercules,$0.12,$0.71
 The First Chapter,182/204,Kristoff - Official Ice Master,3,Steel,Character,Common,3,3,2,Official Ice Master,Frozen,$0.09,$0.44
 The First Chapter,183/204,Kronk - Right-Hand Man,6,Steel,Character,Uncommon,6,6,2,Right-Hand Man,Emperor's New Groove,$0.19,$0.77
 The First Chapter,184/204,Lilo - Galactic Hero,3,Steel,Character,Uncommon,4,2,2,Galactic Hero,Lilo and Stitch,$0.22,$0.68
@@ -213,7 +213,7 @@ The First Chapter,190/204,Simba - Rightful Heir,5,Steel,Character,Uncommon,3,5,2
 The First Chapter,200/204,Smash,3,Steel,Action,Uncommon,,,,,Frozen,$0.28,$4.56
 The First Chapter,191/204,Starkey - Hook's Henchman,5,Steel,Character,Uncommon,5,4,1,Hook's Henchman,Peter Pan,$0.18,$0.66
 The First Chapter,192/204,Te Ka - Heartless,6,Steel,Character,Legendary,5,5,2,Heartless,Moana,$4.92,$18.86
-The First Chapter,193/204,Tinker Bell - Giant Fairy,6,Steel,Character,Super Rare,4,5,2,Giant Fairy,Peter Pan,$14.84,$27.51
+The First Chapter,193/204,Tinker Bell - Giant Fairy,6,Steel,Character,Super Rare,4,5,2,Giant Fairy,Peter Pan,$14.61,$27.51
 The First Chapter,194/204,Tinker Bell - Tiny Tactician,3,Steel,Character,Common,2,4,1,Tiny Tactician,Peter Pan,$0.30,$2.14
 D23 Promos,2,Stitch - Rock Star,6,Amber,Character,Promo,3,5,3,Rock Star,Lilo and Stitch,0,0
 D23 Promos,3,Elsa - Snow Queen,3,Amethyst,Character,Promo,2,3,1,Snow Queen,Frozen,0,$500.00
@@ -223,7 +223,7 @@ D23 Promos,1,Mickey Mouse - Brave Little Tailor,8,Ruby,Character,Promo,5,5,4,Bra
 D23 Promos,6,Robin Hood - Unrivaled Archer,6,Sapphire,Character,Promo,4,4,2,Unrivaled Archer,Robin Hood,0,0
 D23 Promos,7,Captain Hook - Forceful Duelist,1,Steel,Character,Promo,1,2,1,Forceful Duelist,Peter Pan,0,"$1,303.00"
 Disney Lorcana Promo Cards,12,Goofy - Musketeer,5,Amber,Character,Promo,3,6,1,Musketeer,Standard Characters,0,$132.98
-Disney Lorcana Promo Cards,9,Heihei - Boat Snack,1,Amber,Character,Promo,1,2,1,Boat Snack,Moana,0,$6.10
-Disney Lorcana Promo Cards,10,Yzma - Alchemist,2,Amethyst,Character,Promo,2,2,1,Alchemist,Emperor's New Groove,0,$4.55
-Disney Lorcana Promo Cards,8,Mickey Mouse - Detective,3,Sapphire,Character,Promo,1,3,1,Detective,Standard Characters,0,$11.59
+Disney Lorcana Promo Cards,9,Heihei - Boat Snack,1,Amber,Character,Promo,1,2,1,Boat Snack,Moana,0,$6.17
+Disney Lorcana Promo Cards,10,Yzma - Alchemist,2,Amethyst,Character,Promo,2,2,1,Alchemist,Emperor's New Groove,0,$4.47
+Disney Lorcana Promo Cards,8,Mickey Mouse - Detective,3,Sapphire,Character,Promo,1,3,1,Detective,Standard Characters,0,$11.51
 Disney Lorcana Promo Cards,11,Mickey Mouse - Musketeer,6,Steel,Character,Promo,2,7,2,Musketeer,Standard Characters,0,$115.16
