@@ -62,7 +62,7 @@ The First Chapter,45/204,Jafar - Wicked Sorcerer,4,Amethyst,Character,Common,2,5
 The First Chapter,46/204,Jetsam - Ursula's Spy,4,Amethyst,Character,Common,3,3,1,Ursula's Spy,Little Mermaid,$0.05,$0.51
 The First Chapter,47/204,Magic Broom - Bucket Brigade,2,Amethyst,Character,Common,2,2,1,Bucket Brigade,Fantasia,$0.07,$0.79
 The First Chapter,66/204,Magic Mirror,2,Amethyst,Item,Rare,,,,,Snow White,$0.38,$2.68
-The First Chapter,48/204,Maleficent - Biding Her Time,1,Amethyst,Character,Rare,1,1,2,Biding Her Time,Sleeping Beauty,$3.28,$5.18
+The First Chapter,48/204,Maleficent - Biding Her Time,1,Amethyst,Character,Rare,1,1,2,Biding Her Time,Sleeping Beauty,$3.32,$5.18
 The First Chapter,49/204,Maleficent - Sorceress,3,Amethyst,Character,Common,2,2,1,Sorceress,Sleeping Beauty,$0.16,$1.34
 The First Chapter,50/204,Marshmallow - Persistent Guardian,6,Amethyst,Character,Super Rare,5,5,1,Persistent Guardian,Frozen,$0.30,$2.25
 The First Chapter,51/204,Mickey Mouse - Wayward Sorcerer,4,Amethyst,Character,Super Rare,3,4,2,Wayward Sorcerer,Standard Characters,$0.76,$1.08
@@ -74,14 +74,14 @@ The First Chapter,55/204,Sven - Official Ice Deliverer,6,Amethyst,Character,Unco
 The First Chapter,56/204,The Queen - Wicked and Vain,5,Amethyst,Character,Super Rare,4,5,1,Wicked and Vain,Snow White,$1.01,$2.36
 The First Chapter,57/204,The Wardrobe - Belle's Confidant,3,Amethyst,Character,Common,3,4,1,Belle's Confidant,Beauty and the Beast,$0.04,$0.31
 The First Chapter,58/204,Tinker Bell - Peter Pan's Ally,5,Amethyst,Character,Common,3,3,2,Peter Pan's Ally,Peter Pan,$0.09,$0.31
-The First Chapter,59/204,Ursula - Power Hungry,7,Amethyst,Character,Legendary,2,8,3,Power Hungry,Little Mermaid,$5.80,$22.41
+The First Chapter,59/204,Ursula - Power Hungry,7,Amethyst,Character,Legendary,2,8,3,Power Hungry,Little Mermaid,$6.00,$22.41
 The First Chapter,67/204,Ursula's Cauldron,2,Amethyst,Item,Uncommon,,,,,Little Mermaid,$0.21,$1.04
 The First Chapter,68/204,White Rabbit's Pocket Watch,3,Amethyst,Item,Rare,,,,,Alice in Wonderland,$0.54,$3.61
 The First Chapter,60/204,Yzma - Alchemist,2,Amethyst,Character,Common,2,2,1,Alchemist,Emperor's New Groove,$0.06,$0.49
 The First Chapter,61/204,Zeus - God of Lightning,4,Amethyst,Character,Rare,0,4,2,God of Lightning,Hercules,$0.40,$2.16
 The First Chapter,69/204,Aladdin - Prince Ali,2,Emerald,Character,Common,2,2,1,Prince Ali,Aladdin,$0.05,$0.32
 The First Chapter,70/204,Beast - Wolfsbane,5,Emerald,Character,Legendary,4,4,2,Wolfsbane,Beauty and the Beast,$4.02,$18.99
-The First Chapter,71/204,Cheshire Cat - Not All There,3,Emerald,Character,Uncommon,0,3,2,Not All There,Alice in Wonderland,$0.87,$2.50
+The First Chapter,71/204,Cheshire Cat - Not All There,3,Emerald,Character,Uncommon,0,3,2,Not All There,Alice in Wonderland,$0.89,$2.50
 The First Chapter,72/204,Cruella de Vil - Miserable as Usual,2,Emerald,Character,Rare,1,3,1,Miserable as Usual,101 Dalmatians,$0.29,$0.43
 The First Chapter,94/204,Do It Again!,3,Emerald,Action,Rare,,,,,Cinderella,$0.43,$1.55
 The First Chapter,101/204,Dr. Facilier's Cards,2,Emerald,Item,Uncommon,,,,,Princess and the Frog,$0.14,$0.62
@@ -130,7 +130,7 @@ The First Chapter,132/204,He's Got A Sword!,1,Ruby,Action,Common,,,,,Aladdin,$0.
 The First Chapter,112/204,Lefou - Instigator,2,Ruby,Character,Rare,2,2,1,Instigator,Beauty and the Beast,$0.58,$3.48
 The First Chapter,113/204,Maleficent - Monstrous Dragon,9,Ruby,Character,Legendary,7,5,2,Monstrous Dragon,Sleeping Beauty,$30.51,$54.12
 The First Chapter,114/204,Maui - Hero to All,5,Ruby,Character,Rare,6,5,,Hero to All,Moana,$3.88,$8.23
-The First Chapter,115/204,Mickey Mouse - Brave Little Tailor,8,Ruby,Character,Legendary,5,5,4,Brave Little Tailor,Standard Characters,$9.88,$38.47
+The First Chapter,115/204,Mickey Mouse - Brave Little Tailor,8,Ruby,Character,Legendary,5,5,4,Brave Little Tailor,Standard Characters,$9.66,$38.47
 The First Chapter,116/204,Minnie Mouse - Always Classy,1,Ruby,Character,Common,1,3,1,Always Classy,Standard Characters,$0.14,$0.64
 The First Chapter,117/204,Moana - Chosen by the Ocean,5,Ruby,Character,Uncommon,2,6,2,Chosen by the Ocean,Moana,$0.14,$0.57
 The First Chapter,118/204,Mulan - Imperial Soldier,5,Ruby,Character,Super Rare,4,5,1,Imperial Soldier,Mulan,$0.32,$0.52
@@ -170,17 +170,17 @@ The First Chapter,169/204,Magic Golden Flower,1,Sapphire,Item,Common,,,,,Tangled
 The First Chapter,150/204,Maleficent - Sinister Visitor,4,Sapphire,Character,Common,3,4,2,Sinister Visitor,Sleeping Beauty,$0.05,$0.30
 The First Chapter,151/204,Maleficent - Uninvited,5,Sapphire,Character,Rare,3,6,3,Uninvited,Sleeping Beauty,$0.34,$3.56
 The First Chapter,152/204,Maurice - World-Famous Inventor,6,Sapphire,Character,Rare,2,7,2,World-Famous Inventor,Beauty and the Beast,$0.99,$2.98
-The First Chapter,153/204,Merlin - Self-Appointed Mentor,4,Sapphire,Character,Common,3,4,1,Self-Appointed Mentor,Sword in the Stone,$0.09,$0.79
+The First Chapter,153/204,Merlin - Self-Appointed Mentor,4,Sapphire,Character,Common,3,4,1,Self-Appointed Mentor,Sword in the Stone,$0.09,$0.90
 The First Chapter,154/204,Mickey Mouse - Detective,3,Sapphire,Character,Common,1,3,1,Detective,Standard Characters,$0.11,$0.81
 The First Chapter,155/204,Mufasa - King of the Pride Lands,6,Sapphire,Character,Common,4,6,3,King of the Pride Lands,Lion King,$0.08,$0.44
 The First Chapter,164/204,One Jump Ahead,2,Sapphire,Action,Uncommon,,,,,Aladdin,$0.16,$1.70
 The First Chapter,156/204,Philoctetes - Trainer of Heroes,2,Sapphire,Character,Common,3,1,1,Trainer of Heroes,Hercules,$0.06,$0.85
-The First Chapter,157/204,Robin Hood - Unrivaled Archer,6,Sapphire,Character,Super Rare,4,4,2,Unrivaled Archer,Robin Hood,$1.23,$4.46
+The First Chapter,157/204,Robin Hood - Unrivaled Archer,6,Sapphire,Character,Super Rare,4,4,2,Unrivaled Archer,Robin Hood,$1.22,$4.46
 The First Chapter,158/204,Scar - Mastermind,6,Sapphire,Character,Rare,5,4,2,Mastermind,Lion King,$0.18,$1.56
 The First Chapter,170/204,Scepter of Arendelle,1,Sapphire,Item,Uncommon,,,,,Frozen,$0.19,$0.69
 The First Chapter,159/204,Tamatoa - So Shiny!,8,Sapphire,Character,Super Rare,5,8,1,So Shiny!,Moana,$4.10,$11.81
 The First Chapter,160/204,Triton - The Sea King,7,Sapphire,Character,Uncommon,5,9,2,The Sea King,Little Mermaid,$0.14,$0.55
-The First Chapter,165/204,Work Together,1,Sapphire,Action,Common,,,,,Emperor's New Groove,$0.11,$0.63
+The First Chapter,165/204,Work Together,1,Sapphire,Action,Common,,,,,Emperor's New Groove,$0.11,$0.72
 The First Chapter,195/204,A Whole New World,5,Steel,Action,Super Rare,,,,,Aladdin,$9.59,$14.10
 The First Chapter,171/204,Aladdin - Cornered Swordsman,2,Steel,Character,Common,2,1,2,Cornered Swordsman,Aladdin,$0.13,$0.30
 The First Chapter,172/204,Beast - Hardheaded,5,Steel,Character,Uncommon,4,4,2,Hardheaded,Beauty and the Beast,$0.13,$1.03
